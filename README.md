@@ -1,6 +1,6 @@
 ### Olá, seja bem-vindo! 👋
 
-- 🔭 Estou trabalhando com Front-End
+- 🔭 Trabalhando com Front-End
 - 🌱 Estudando Typescript
 - ⚛️ Desenvolvedor React
 

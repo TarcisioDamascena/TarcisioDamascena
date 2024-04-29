@@ -4,8 +4,13 @@
 - 🌱 Estudando Typescript
 - ⚛️ Desenvolvedor React
 
+##Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarcisiodamascena/)
+
+##Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TarcisioDamascena&show_icons=true&theme=radical)
 
+##Linguagens
 <div style="display: inline_block"><br>
   <img align="center" alt="DamasX-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="DamasX-Ts" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">

@@ -1,4 +1,4 @@
-### Olá, seja bem-vindo! 👋
+### Olá, seja bem-vindo ao meu Github! 👋
 
 - 🔭 Trabalhando com Front-End
 - 🌱 Estudando Typescript

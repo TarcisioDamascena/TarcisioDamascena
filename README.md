@@ -9,7 +9,7 @@
 ## Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TarcisioDamascena&show_icons=true&theme=radical)
 
-## Linguagens
+## Linguagens e Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="DamasX-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="DamasX-Ts" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">

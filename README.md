@@ -1,7 +1,7 @@
 ### Olá, eu sou o Tarcísio, seja bem-vindo ao meu Github! 👋
 - ⚛️ Desenvolvedor React e React Native
 -  :video_game: Desenvolvedor de jogos com Unity
-- ☕ Atualmente estudando Java
+- ☕ Atualmente estudando Backend com Java
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarcisiodamascena/)

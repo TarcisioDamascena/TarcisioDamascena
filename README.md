@@ -1,16 +1,17 @@
-Hi, I'm Tarcísio! Welcome to my GitHub! 👋
-⚛️ React and React Native Developer
-☕ Currently studying Backend with Java
-About Me:
+### Hi, I'm Tarcísio! Welcome to my GitHub! 👋
+- ⚛️ React and React Native Developer
+- ☕ Currently studying Backend with Java
+
+## About Me:
 I've been passionate about technology since I was a kid. At 14, I discovered Unity and had my first contact with a programming language, which sparked my interest in learning more about the tech world. During my technical education, I honed my skills in electronics and computer science, and I had the opportunity to collaborate on the development of an educational website during my internships. I also enjoy simulation and survival games, as well as playing online with friends.
 
-Connect with Me
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarcisiodamascena/)
 
+## GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TarcisioDamascena&show_icons=true&theme=radical)
 
-GitHub Stats
-
-
-Languages and Technologies
+## Languages and Technologies
 <div style="display: inline_block"><br>
   <img align="center" alt="DamasX-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="DamasX-Ts" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -21,4 +22,7 @@ Languages and Technologies
   <img align="center" alt="DamasX-Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="DamasX-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="DamasX-Postgres" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="DamasX-MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="DamasX-MongoDB" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+          
 </div>

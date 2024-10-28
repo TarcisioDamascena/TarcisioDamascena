@@ -1,6 +1,7 @@
 ### Hi, I'm Tarcísio! Welcome to my GitHub! 👋
 - ⚛️ React and React Native Developer
-- ☕ Currently studying Backend with Java
+- 🅰️ Angular Delveloper
+- ☕ Currently studying Java Backend
 
 ## About Me:
 I've been passionate about technology since I was a kid. At 14, I discovered Unity and had my first contact with a programming language, which sparked my interest in learning more about the tech world. During my technical education, I honed my skills in electronics and computer science, and I had the opportunity to collaborate on the development of an educational website during my internships. I also enjoy simulation and survival games, as well as playing online with friends.

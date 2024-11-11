@@ -13,7 +13,7 @@ I've been passionate about technology since I was a kid. At 14, I discovered Uni
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TarcisioDamascena&show_icons=true&theme=radical)
 
 ## DayliDev Card
-<a href="https://app.daily.dev/damasx"><img src="https://api.daily.dev/devcards/v2/3fEngDhFF5WDY8SMTc1FE.png?type=default&r=24z" width="356" alt="TARCISIO SILVA DAMASCENA's Dev Card"/></a>
+<a href="https://app.daily.dev/damasx"><img src="https://api.daily.dev/devcards/v2/3fEngDhFF5WDY8SMTc1FE.png?type=wide&r=rgq" width="652" alt="TARCISIO SILVA DAMASCENA's Dev Card"/></a>
 
 ## Languages and Technologies
 <div style="display: inline_block"><br>
